@@ -14,8 +14,11 @@ chalk : styling logs in terminal
 yargs : creating cmd commands and read the arguments from cmd
 validator : validating data
 request : api request, we can use fetch/axios instead
-
-
+bcryptjs : using for encrypt and crypt password or other data
+multer : using for dealing with files in nodejs
+sharp : using for resizing images
+env-cmd : using for accessing config env files
+mongodb : we can create cloud mongodb atlas compose database with free of cast
 
 
 RESOURCES
@@ -25,3 +28,5 @@ handlebars (hbs): Very popular web templating to handle template engine
 github: Using for version controlling (https://git-scm.com best resource for learn git and free book available)
 heroku: launching the web server
 Robo 3T : MongoDB admin tool, very easy to deal with mongodb in local machine
+Download this node course images: http://files.mead.io/5c64e8f75ffe 
+sendgrid.com : sending email with free of cast
